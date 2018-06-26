@@ -1,5 +1,5 @@
 
-pod "SwiftyCam", :git => "https://github.com/NathanWalker/SwiftyCam.git"
+pod "SwiftyCam", :git => "https://github.com/frey1esm/SwiftyCam.git"
 pod "QBImagePickerController"
 
 post_install do |installer|
